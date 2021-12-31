@@ -1,0 +1,134 @@
+* {
+    font-family: Montserrat;
+}
+  
+  body {
+    margin: 0;
+    padding: 0;
+    background: #525252;
+    background: -webkit-linear-gradient(120deg, #2366b8, #494d86);
+    background: linear-gradient(120deg, #2366b8, #494d86);
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+}
+
+#app {
+    display: flex;
+    height: 400px;
+    width: 380px;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    border-radius: 10px;
+}
+
+#app > h1 {
+    text-align: center;
+    height: 60px;
+    width: 380px;
+    border-bottom: 1px solid grey;
+}
+
+#form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 290px;
+    width: 380px;
+}
+
+#name, #pass {
+  border: none;
+  border-bottom: 1px solid grey;
+  width: 80%;
+  outline: none;
+  font-size: 16px;
+  margin: 15px 20px 20px 20px;
+  padding-bottom: 10px;
+}
+
+#forgot {
+    width: 100%;
+    padding-left: 75px;
+    margin: 0px 0px 20px 0px;
+}
+
+#forgot > a {
+    text-decoration: none;
+    color: rgb(121, 121, 121);
+}
+
+#forgot > a:hover {
+    text-decoration: underline;
+}
+
+#login {
+    width: 300px;
+    height: 45px;
+    border-radius: 50px;
+    background-color: #2691d4;
+    color: aliceblue;
+    font-size: 16px;
+    margin: 0px 0px 20px 0px;
+    font-weight: bold;
+    border: none;
+}
+
+#login:hover {
+    border: 2px solid black;
+} 
+
+#signup {
+    margin: 0px 0px 20px 0px;
+    color: rgb(97, 97, 97);
+}
+
+#signup > a {
+    text-decoration: none;
+    color: #2691d9;
+}
+
+#signup > a:hover {
+    text-decoration: underline;
+}
+
+@media (max-width: 400px) {
+
+    #app {
+        height: 320px;
+        width: 280px;
+    }
+
+    #app > h1 {
+        font-size: 20px;
+        width: 280px;
+    }
+
+    #name, #pass {
+        width: 250px;
+        font-size: 10px;
+    }
+
+    #forgot {
+        margin-left: 55px;
+        font-size: 10px;
+    }
+
+    #login {
+        width: 200px;
+        height: 25px;
+        font-size: 12px;
+    }
+
+    #signup {
+        font-size: 10px;
+    }
+}
