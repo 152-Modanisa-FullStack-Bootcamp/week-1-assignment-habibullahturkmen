@@ -7,8 +7,7 @@ For this assigment, you need to prepare a Linkedin post.
 - Elements should be placed roughly as you see in the picture below.
 - For bonus points, you need to give pay extra attention to the colors, border radius and fonts.
 
-
-![This is an image](./assets/linkedin-post.png)
+<img src="./assets/linkedin-post.png" style="width:600px;"/>
 
 ## Solution
 
