@@ -1,4 +1,39 @@
-h1 {
-  color: hotpink;
+* {
+  margin: 0;
+  padding: 0;
   font-family: cursive;
+}
+
+img {
+  width: 300px;
+  height: 408px;
+  border-radius: 20px;
+  margin: 10px;
+}
+
+#container {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background: #19547b linear-gradient(to right, #19547b, #857b7b);
+
+}
+
+#app {
+  display: flex;
+  width: 650px;
+  height: 450px;
+  border: 2px solid black;
+  justify-content: flex-start;
+  align-items: flex-start;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  flex-wrap: wrap;
+}
+
+#app > div {
+  text-align: center;
 }
