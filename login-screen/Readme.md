@@ -7,9 +7,11 @@ For the first assigment, you need to prepare a login screen which is centered on
 - You need to center login card both vertically and horizontally.
 - All elements inside the login card should be centered.
 - For bonus points, you need to give pay extra attention to the colors, border radius fonts.
-![This is an image](./assets/login-screen.png)
+
+<img src="./assets/login-screen.png" width="600px">
 
 ## Solution
 ### [Codesandbox link to Login Screen Solution](https://codesandbox.io/s/login-j5487)
 
-![This is an image](./assets/login-screen-solution.jpg)
+<img src="./assets/login-screen-solution.jpg">
+
