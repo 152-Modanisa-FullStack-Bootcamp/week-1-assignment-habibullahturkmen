@@ -4,7 +4,6 @@
 
 ## 3. [JavaScript Practice Solution](https://github.com/152-Modanisa-FullStack-Bootcamp/week-1-assignment-habibullahturkmen/tree/js-practice/src)
 
-## 3. JavaScript Solution
 # vanilla-js-template
 Vanilla JS Project template for Modanisa Bootcamp
 
