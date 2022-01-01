@@ -1,8 +1,8 @@
-## 1. Login Screen Solution
+## 1. [Login Screen Solution](https://github.com/152-Modanisa-FullStack-Bootcamp/week-1-assignment-habibullahturkmen/tree/login-screen/login-screen)
 
 ## 2. [LinkedIn Post Solution](https://github.com/152-Modanisa-FullStack-Bootcamp/week-1-assignment-habibullahturkmen/tree/linkedin-post/linkedIn-post)
 
-## 3. JavaScript Solution
+## 3. [JavaScript Practice Solution](https://github.com/152-Modanisa-FullStack-Bootcamp/week-1-assignment-habibullahturkmen/tree/js-practice/src)
 
 # vanilla-js-template
 Vanilla JS Project template for Modanisa Bootcamp
